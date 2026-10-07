@@ -10,7 +10,7 @@ The project covers data cleaning, exploratory data analysis, feature encoding, t
 
 The dataset contains **569 records** and **30 numerical features** related to breast cell characteristics.
 
-**Target Variable:** `diagnosis`
+**Target Variable:** diagnosis
 
 * B - Benign
 * M - Malignant
